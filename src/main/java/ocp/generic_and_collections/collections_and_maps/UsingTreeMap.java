@@ -1,4 +1,4 @@
-package ocp.generic_and_collections.collections;
+package ocp.generic_and_collections.collections_and_maps;
 
 import java.util.TreeMap;
 

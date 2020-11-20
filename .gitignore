@@ -8,3 +8,5 @@ target/
 .attach_pid17257
 .attach_pid30109
 .attach_pid3416
+/.idea/
+/ocp.iml

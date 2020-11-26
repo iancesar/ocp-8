@@ -12,6 +12,7 @@ import java.util.function.Supplier;
 public class UsingCollectionAndStream {
 
     public static void main(String[] args) {
+
         //Consumer
         Consumer<List<Integer>> methodRef1 = Collections::sort;
 
